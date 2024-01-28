@@ -1,0 +1,13 @@
+// Name: Meetpal Singh
+// Seneca Student ID: 125926212
+// Seneca email: msingh683@myseneca.ca
+// Date of completion: 2023/4/8
+//
+// I confirm that I am the only author of this file
+//   and the content was created entirely by me.
+
+
+									Reflection
+
+
+The project was an amalgation of different concepts taught throughout the course. Overall, the development was linear. It helped me instill a better understanding of pointers and are used extensively through the project. Furthermore use of STL containers and algorithms helped lifting some of the load in the development. There wasn't much difficulty in the development except understanding the working of pointers. In Summary, the project helped my coding roots grow deeper and was a good practice implementaion of what I had learned so far.
